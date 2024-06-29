@@ -1,0 +1,4 @@
+0 down
+1 up
+2 left
+3 right
